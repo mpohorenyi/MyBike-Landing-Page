@@ -82,8 +82,6 @@ To start the project, use the following command: <br />
 
 ## Author
 
-👨‍💼 **Mykhailo Pohorenyi**
-
 * Github: [@mpohorenyi](https://github.com/mpohorenyi)
 * LinkedIn: [Mykhailo Pohorenyi](https://www.linkedin.com/in/mykhailo-pohorenyi/)
 * Telegram: [@mpohorenyi](https://t.me/mpohorenyi)
