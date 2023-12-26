@@ -1,7 +1,18 @@
 {
-  "name": "layout_landing-page",
+  "name": "mybike-landing-page",
   "version": "1.0.0",
-  "description": "Landing page",
+  "description": "Landing page of a bike shop",
+  "author": "Mykhailo Pohorenyi",
+  "license": "GPL-3.0",
+  "homepage": "https://github.com/mpohorenyi/MyBike-Landing-Page",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mpohorenyi/MyBike-Landing-Page"
+  },
+  "engines": {
+    "npm": ">=5.5.0",
+    "node": "14.21.3"
+  },
   "main": "index.js",
   "scripts": {
     "init": "mate-scripts init",
@@ -15,8 +26,6 @@
     "test": "npm run lint && npm run test:only"
   },
   "keywords": [],
-  "author": "Mate Academy",
-  "license": "GPL-3.0",
   "devDependencies": {
     "@linthtml/linthtml": "^0.8.3",
     "@mate-academy/bemlint": "^0.1.1",
