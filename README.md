@@ -87,9 +87,4 @@ To start the project, use the following command: <br />
 * Telegram: [@mpohorenyi](https://t.me/mpohorenyi)
 * Gmail: mykhailo.pohorenyi@gmail.com
 
-## 📝 License
-
-Copyright © 2023 [Mykhailo Pohorenyi](https://github.com/mpohorenyi).<br />
-This project is [GPL--3.0](https://github.com/mpohorenyi/MyBike-Landing-Page/blob/master/LICENSE) licensed.
-
 <p align="right">(<a href="#readme-top">UP</a>)</p>
