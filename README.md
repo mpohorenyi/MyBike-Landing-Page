@@ -1,10 +1,10 @@
+<a name="readme-top"></a>
+
 <h1 align="center">Welcome to MyBike - Landing Page 👋</h1>
 <div align="center">
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <img src="https://img.shields.io/badge/node-14.21.3-blue.svg" />
 </div>
-
-<a name="readme-top"></a>
 
 <!-- PROJECT LOGO -->
 <br />
@@ -17,7 +17,7 @@
 
   <p align="center">
     <br />
-    <a href="https://mpohorenyi.github.io/MyBike-Landing-Page/">View Demo</a>
+    <a href="https://mpohorenyi.github.io/MyBike-Landing-Page/" target="_blank">View Demo</a>
   </p>
 </div>
 
@@ -49,7 +49,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-This project built using Semantic HTML5 markup, CSS3 with Grid and Flexbox, and the BEM methodology. The code is organized using Sass, a CSS preprocessor, and is structured for efficiency by separating everything into its own file. Sass is used also for better code organization, which includes the use of mixins, functions, and other advanced Sass features.
+This project was built using Semantic HTML5 markup, CSS3 with Grid and Flexbox, and the BEM methodology. The code is organized using Sass, a CSS preprocessor, and is structured for efficiency by separating everything into its own file. Sass is used also for better code organization, which includes the use of mixins, functions, and other advanced Sass features.
 
 ### Built With
 
@@ -74,21 +74,21 @@ Make sure you are using the correct version of the node
 ### Installation
 
 1. Clone the repo
-    ```sh
-    git clone https://github.com/mpohorenyi/MyBike-Landing-Page.git
-    ```
+  ```sh
+  git clone https://github.com/mpohorenyi/MyBike-Landing-Page.git
+  ```
 2. Install NPM packages
-    ```sh
-    npm install
-    ```
+  ```sh
+  npm install
+  ```
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
 To start the project, use the following command: <br />
-    ```sh
-    npm start
-    ```
+  ```sh
+  npm start
+  ```
 
 ## Author
 
@@ -104,4 +104,4 @@ To start the project, use the following command: <br />
 Copyright © 2023 [Mykhailo Pohorenyi](https://github.com/mpohorenyi).<br />
 This project is [GPL--3.0](https://github.com/mpohorenyi/MyBike-Landing-Page/blob/master/LICENSE) licensed.
 
-<p align="right"><a href="#readme-top">🔼</a></p>
+<p align="right"><a href="#readme-top" style="text-decoration:none;">🔼</a></p>
